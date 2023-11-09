@@ -1,2 +1,2 @@
 if (enabled)
-   area = pi * raio * raio * raio;
+   area = pi * radius * radius * radius;
